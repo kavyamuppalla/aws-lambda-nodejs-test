@@ -1,0 +1,21 @@
+{
+  "name": "aws-lambda-nodejs-test",
+  "version": "1.0.0",
+  "description": "Nodejs to test AWS Lambda",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "6.0.0"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.156.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kavyamuppalla/aws-lambda-nodejs-test"
+  },
+  "author": "Kavya Muppalla",
+  "license": "MIT"
+}
